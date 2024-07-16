@@ -1,6 +1,6 @@
-# haru!
+# haru! 
 
--# 春 - Spring.
+<sub> 春 - Spring </sub>
 
 A simple, fast and beautiful terminal, written in C.
 
