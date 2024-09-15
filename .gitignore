@@ -1,0 +1,8 @@
+/build/bin/
+/build/out/
+/build/tests/
+/haru
+/tests/unity
+/vgcore
+/.cache
+/compile_commands.json

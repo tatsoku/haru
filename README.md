@@ -1,8 +1,8 @@
-# haru! 
+# haru!
 
 <sub> 春 - Spring </sub>
 
-A simple, fast and beautiful terminal, written in C.
+A simple, fast and beautiful terminal, written in C with vulkan-sdk.
 
 ![[LICENSE](https://github.com/tatsoku/haru/blob/main/LICENSE)](https://img.shields.io/github/license/tatsoku/haru?style=flat-square)
 
